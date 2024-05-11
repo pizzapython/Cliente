@@ -1,0 +1,6 @@
+print("ab\rd")
+print("abc\td")
+print("abc\nd")
+print("abc\\nd")
+print("ab\bc")
+print("\x41\xA1")
